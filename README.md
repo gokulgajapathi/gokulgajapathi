@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulgajapathi&label=Profile%20views&color=0e75b6&style=flat" alt="gokulgajapathi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulgajapathi" alt="gokulgajapathi" /></a> </p>
 
 - 🔭 I’m currently working on [problem solving](https://github.com/gokulgajapathi/programming-practice-2)
 
